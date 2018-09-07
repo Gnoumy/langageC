@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536221332 source:/home/formation/Workspace/pointeur/fonction.c
+	"entete.h"
+	<stdio.h>
+
+1536155147 /home/formation/Workspace/pointeur/entete.h
+
+1536220986 source:/home/formation/Workspace/pointeur/main.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1535983959 source:/home/formation/Workspace/listeChaineeFonction/main.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+
+1535984126 /home/formation/Workspace/listeChaineeFonction/entete.h
+
+1535983915 source:/home/formation/Workspace/listeChaineeFonction/fonction.c
+	"entete.h"
+	<stdio.h>
+	<stdlib.h>
+

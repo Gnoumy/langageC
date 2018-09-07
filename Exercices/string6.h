@@ -1,0 +1,9 @@
+#ifndef EXERCICE12_H_INCLUDED
+#define EXERCICE12_H_INCLUDED
+
+
+void string6();
+
+#endif // EXERCICE12_H_INCLUDED
+
+

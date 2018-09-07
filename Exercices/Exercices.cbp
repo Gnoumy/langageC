@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Exercices" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Exercices" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Exercices" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Exercice12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exercice12.h" />
+		<Unit filename="Exercice13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exercice13.h" />
+		<Unit filename="Harmonique.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Harmonique.h" />
+		<Unit filename="TableauxV2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TableauxV2.h" />
+		<Unit filename="TableauxV3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TableauxV3.h" />
+		<Unit filename="TableauxV5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TableauxV5.h" />
+		<Unit filename="file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file.h" />
+		<Unit filename="file2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file2.h" />
+		<Unit filename="fonction.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fonction4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fonction4.h" />
+		<Unit filename="fonction5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fonction5.h" />
+		<Unit filename="fonction7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fonction7.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="pointeur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pointeur.h" />
+		<Unit filename="string3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="string3.h" />
+		<Unit filename="string4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="string4.h" />
+		<Unit filename="string6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="string6.h" />
+		<Unit filename="string7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="string7.h" />
+		<Unit filename="structure1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure1.h" />
+		<Unit filename="structure2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure2.h" />
+		<Unit filename="structure3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure3.h" />
+		<Unit filename="structure4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure4.h" />
+		<Unit filename="structure6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structure6.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

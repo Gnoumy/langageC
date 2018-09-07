@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535980666 source:/home/formation/Workspace/listeChainee/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1535963808 source:/home/formation/Workspace/Exercices/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1535641060 /home/formation/Workspace/Exercices/Exercice12.h
+
+1535543466 source:/home/formation/Workspace/Exercices/Exercice12.c
+	<stdio.h>
+	"Exercice12.h"
+
+1535641065 /home/formation/Workspace/Exercices/Exercice13.h
+
+1535535982 source:/home/formation/Workspace/Exercices/Exercice13.c
+	"Exercice13.h"
+
+1535640857 /home/formation/Workspace/Exercices/Harmonique.h
+
+1535540161 source:/home/formation/Workspace/Exercices/Harmonique.c
+	<stdio.h>
+	"Harmonique.h"
+
+1535541297 source:/home/formation/Workspace/Exercices/TableauxV2.c
+	<stdio.h>
+	"TableauxV2.h"
+
+1535641094 /home/formation/Workspace/Exercices/TableauxV2.h
+
+1535641102 /home/formation/Workspace/Exercices/TableauxV3.h
+
+1535542229 source:/home/formation/Workspace/Exercices/TableauxV3.c
+	<stdio.h>
+	"TableauxV3.h"
+
+1535641107 /home/formation/Workspace/Exercices/TableauxV5.h
+
+1535543456 source:/home/formation/Workspace/Exercices/TableauxV5.c
+	<stdio.h>
+	"TableauxV5.h"
+
+1535725950 source:/home/formation/Workspace/Exercices/menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Harmonique.h"
+	"Exercice12.h"
+	"Exercice13.h"
+	"TableauxV2.h"
+	"TableauxV3.h"
+	"TableauxV5.h"
+	"pointeur.h"
+	"fonction4.h"
+	"fonction5.h"
+	"fonction7.h"
+	"string3.h"
+	"string4.h"
+	"string6.h"
+	"string7.h"
+	"structure1.h"
+	"structure2.h"
+	"structure3.h"
+	"structure4.h"
+	"structure6.h"
+	"file.h"
+	"file2.h"
+
+1535708336 /home/formation/Workspace/Exercices/menu.h
+
+1535641081 /home/formation/Workspace/Exercices/pointeur.h
+
+1535546080 source:/home/formation/Workspace/Exercices/pointeur.c
+	<stdio.h>
+	"pointeur.h"
+
+1535552264 source:/home/formation/Workspace/Exercices/fonction4.c
+	<stdio.h>
+	"fonction4.h"
+
+1535641069 /home/formation/Workspace/Exercices/fonction4.h
+
+1535703579 source:/home/formation/Workspace/Exercices/fonction5.c
+	<stdio.h>
+	<string.h>
+	"fonction5.h"
+
+1535708409 /home/formation/Workspace/Exercices/fonction5.h
+
+1535617462 source:/home/formation/Workspace/Exercices/fonction7.c
+	<stdio.h>
+	"fonction7.h"
+	<stdbool.h>
+
+1535708462 /home/formation/Workspace/Exercices/fonction7.h
+	<stdbool.h>
+
+1535623662 source:/home/formation/Workspace/Exercices/string3.c
+	<stdio.h>
+	"string3.h"
+
+1535641085 /home/formation/Workspace/Exercices/string3.h
+
+1535708462 /home/formation/Workspace/Exercices/string4.h
+
+1535629204 source:/home/formation/Workspace/Exercices/string4.c
+	<stdio.h>
+	"string4.h"
+
+1535634098 source:/home/formation/Workspace/Exercices/string6.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string6.h"
+
+1535708462 /home/formation/Workspace/Exercices/string6.h
+
+1535641777 /home/formation/Workspace/Exercices/string7.h
+
+1535636874 source:/home/formation/Workspace/Exercices/string7.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string7.h"
+
+1535708212 /home/formation/Workspace/Exercices/structure.h
+
+1535719014 source:/home/formation/Workspace/Exercices/fonction.c
+	"structure2.h"
+
+1535709285 /home/formation/Workspace/Exercices/structure2.h
+
+1535709289 source:/home/formation/Workspace/Exercices/structure2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure2.h"
+
+1535715983 source:/home/formation/Workspace/Exercices/structure1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure1.h"
+
+1535718657 /home/formation/Workspace/Exercices/structure1.h
+
+1535719654 /home/formation/Workspace/Exercices/structure3.h
+
+1535719759 source:/home/formation/Workspace/Exercices/structure3.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"structure3.h"
+	"structure1.h"
+
+1535720321 /home/formation/Workspace/Exercices/structure4.h
+
+1535720690 source:/home/formation/Workspace/Exercices/structure4.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"structure4.h"
+
+1535722770 /home/formation/Workspace/Exercices/structure6.h
+
+1535723264 source:/home/formation/Workspace/Exercices/structure6.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"structure6.h"
+
+1535725459 source:/home/formation/Workspace/Exercices/file.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1535725009 /home/formation/Workspace/Exercices/file.h
+
+1535964571 /home/formation/Workspace/Exercices/file2.h
+
+1535965842 source:/home/formation/Workspace/Exercices/file2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file2.h"
+
